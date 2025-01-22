@@ -45,13 +45,8 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about We
 
 ---
 
-### 📈 Productivity Insights
-[![GitHub Trends](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TuUsuario&theme=radical)](https://github.com/TuUsuario)
-
----
 
 ### 🚀 Key Metrics
-- **Repositories:** ![Repos](https://img.shields.io/github/repos/TuUsuario?style=for-the-badge&color=blue)
 - **Stars Earned:** ![Stars](https://img.shields.io/github/stars/TuUsuario?style=for-the-badge&color=yellow)
 - **Followers:** ![Followers](https://img.shields.io/github/followers/TuUsuario?style=for-the-badge&color=green)
 
