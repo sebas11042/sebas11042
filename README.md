@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about We
 ### 🌟 Top Projects
 Here are some of my favorite projects:
 - [Citizen of Arcanis](https://github.com/SunsetLabs/CitizenOfArcanis): A cyberpunk MMORPG blockchain game.
-- [Mini Fitness App](https://github.com/TuUsuario/mini-fitness-app): A fitness app built with Next.js and MiniKit.
+- [Krovva](https://github.com/TuUsuario/mini-fitness-app): A fitness app built with Next.js and MiniKit.
 
 
 ### 💡 Fun Fact
