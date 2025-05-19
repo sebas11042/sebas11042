@@ -40,10 +40,12 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about We
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
-
+![Sebastian GitHub stats](https://github-readme-stats.vercel.app/api?username=sebas11042&show_icons=true&theme=radical)
 
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebas11042&layout=compact&theme=radical)
 
 
 ### 🚀 Key Metrics
