@@ -1,70 +1,79 @@
-# Hi! I'm Sebastian👋
-
-Welcome to my GitHub profile! I'm a Computer Science student passionate about Web 3 and building engaging frontend experiences.
-
----
-
-## 🙋‍♂️ About Me
-- 🌱 Currently learning **TypeScript**, **Next.js**, and **React** to enhance my frontend skills.
-- 🎨 Focused on **frontend development**, creating intuitive and dynamic user interfaces.
-- 🎮 Passionate about blending creativity with technology through **Unity 3D** and exploring game development.
-- 🚀 Interested in contributing to Web 3 projects and decentralized applications.
-
----
-
-## 🛠️ Tech Stack
-
-### **Programming Languages:**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="margin-right: 10px;"/> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:2563eb,100:7c3aed&height=260&section=header&text=Sebastián%20Gómez&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web3%20Builder&descAlignY=60&descSize=20" />
 </p>
 
-### **Frameworks & Libraries:**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px; margin-right: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" style="margin-right: 10px;"/> 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" style="margin-right: 10px;"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;REST+API+Architecture;Web3+Product+Builder;Modern+Frontend+%2B+Robust+Backend" />
 </p>
 
-### **Tools & Platforms:**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px; margin-right: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right: 10px;"/>
+<h2 align="center">
+Full Stack Developer building scalable digital products and exploring Web3 ecosystems.
+</h2>
+
+<p align="center">
+  <a href="https://t.me/TU_USUARIO">
+    <img src="https://img.shields.io/badge/Telegram-Connect-229ED9?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://x.com/TU_USUARIO">
+    <img src="https://img.shields.io/badge/X-Twitter-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+  <a href="https://github.com/sebas11042">
+    <img src="https://img.shields.io/badge/GitHub-sebas11042-111827?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
-
-![Sebastian GitHub stats](https://github-readme-stats.vercel.app/api?username=sebas11042&show_icons=true&theme=radical)
-
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebas11042&layout=compact&theme=radical)
+# About Me
 
+Full Stack Developer with experience building complete web applications, backend systems, REST APIs, relational database architectures, and scalable digital platforms.
 
-### 🚀 Key Metrics
-- **Stars Earned:** ![Stars](https://img.shields.io/github/stars/TuUsuario?style=for-the-badge&color=yellow)
-- **Followers:** ![Followers](https://img.shields.io/github/followers/TuUsuario?style=for-the-badge&color=green)
+Experienced across frontend and backend technologies delivering business systems, reservation platforms, e-commerce style applications, and modern web products.
+
+Worked on Web3-related product concepts involving blockchain ecosystems, digital assets, and decentralized application exploration.
 
 ---
 
-### 🌟 Top Projects
-Here are some of my favorite projects:
-- [Citizen of Arcanis](https://github.com/SunsetLabs/CitizenOfArcanis): A cyberpunk MMORPG blockchain game.
-- [Krovva](https://github.com/TuUsuario/mini-fitness-app): A fitness app built with Next.js and MiniKit.
+# Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,java,spring,php,laravel,cs,dotnet,mysql,sqlite,mongodb,docker,git,github,linux,bash,postman,vscode" />
+</p>
 
-### 💡 Fun Fact
-I’m always learning something new and exploring innovative technologies!
+---
 
+# GitHub Analytics
 
-## 🌐 Contact Me
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sebas_G11)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tan11042)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sebas11042&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=sebas11042&theme=tokyonight&hide_border=true" />
+</p>
 
+---
+
+# Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebas11042&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+# Web3 Experience
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web3-Blockchain%20Builder-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Smart%20Contracts-Ecosystem%20Experience-2563eb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Digital%20Assets-Marketplace%20Concepts-0ea5e9?style=for-the-badge" />
+</p>
+
+---
+
+# Development Profile
+
+```txt
+Full Stack Development      ████████████
+Frontend Engineering        ███████████░
+Backend Architecture        ███████████░
+Database Systems            ██████████░░
+Web3 Product Development    █████████░░░
