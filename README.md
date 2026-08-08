@@ -45,7 +45,6 @@ Worked on Web3-related product concepts involving blockchain ecosystems, digital
 # GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sebas11042&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
   <img width="49%" src="https://streak-stats.demolab.com?user=sebas11042&theme=tokyonight&hide_border=true" />
 </p>
 
