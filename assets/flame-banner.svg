@@ -9,9 +9,9 @@
 
   <!-- BACKGROUND -->
 <radialGradient id="bg">
-  <stop offset="0%" stop-color="#24405A"/>
-  <stop offset="45%" stop-color="#1F2B43"/>
-  <stop offset="100%" stop-color="#101927"/>
+  <stop offset="0%" stop-color="#11140c"/>
+  <stop offset="45%" stop-color="#070806"/>
+  <stop offset="100%" stop-color="#010201"/>
 </radialGradient>
 
   <!-- NFT INSPIRED FIRE -->
