@@ -1,78 +1,171 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:2563eb,100:7c3aed&height=260&section=header&text=Sebastián%20Gómez&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web3%20Builder&descAlignY=60&descSize=20" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;REST+API+Architecture;Web3+Product+Builder;Modern+Frontend+%2B+Robust+Backend" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:050505,65:071a12,100:00ff66&height=230&section=header&text=SEBASTIÁN%20GÓMEZ&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20WEB3%20BUILDER&descAlignY=58&descSize=17&descColor=39ff14" />
 
-<h2 align="center">
-Full Stack Developer building scalable digital products and exploring Web3 ecosystems.
-</h2>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=60&lines=%3E+Initializing+developer+profile...;%3E+Building+scalable+web+applications_;%3E+Designing+REST+API+architectures_;%3E+Exploring+Web3+ecosystems_;%3E+Frontend+%2B+Backend+%2B+Blockchain_;%3E+Ship.+Learn.+Build.+Repeat._" />
 
-<p align="center">
-  <a href="https://t.me/TU_USUARIO">
-    <img src="https://img.shields.io/badge/Telegram-Connect-229ED9?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://x.com/TU_USUARIO">
-    <img src="https://img.shields.io/badge/X-Twitter-000000?style=for-the-badge&logo=x&logoColor=white">
-  </a>
+<br/>
+
+### `FULL STACK DEVELOPER // WEB3 BUILDER`
+
+Building modern digital products from **interface to infrastructure**.
+
+<br/>
+
 <a href="https://www.linkedin.com/in/sebastian-gomez-arrieta-184bb3245/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sebastian%20Gomez%20Arrieta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-050505?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=050505&color=101010" />
 </a>
-</p>
+&nbsp;
+<a href="https://github.com/sebas11042">
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-050505?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=050505&color=101010" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sebas11042&label=PROFILE+VIEWS&color=00b344&style=flat-square" />
+
+</div>
 
 ---
 
-# About Me
+## `> WHO_AM_I`
 
-Full Stack Developer with experience building complete web applications, backend systems, REST APIs, relational database architectures, and scalable digital platforms.
+```typescript
+const sebastian = {
+    role: "Full Stack Developer",
+    focus: ["Web Development", "Backend Architecture", "Web3"],
+    building: "Scalable digital products",
+    architecture: ["REST APIs", "Relational Databases", "Full Stack Systems"],
+    interests: ["Blockchain", "Digital Assets", "Decentralized Apps"],
+    philosophy: "Build. Break. Learn. Improve.",
+};
+```
 
-Experienced across frontend and backend technologies delivering business systems, reservation platforms, e-commerce style applications, and modern web products.
+I build complete web applications across the **frontend and backend**, with experience designing REST APIs, database architectures and scalable business platforms.
 
-Worked on Web3-related product concepts involving blockchain ecosystems, digital assets, and decentralized application exploration.
-
----
-
-# Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,java,spring,php,laravel,cs,dotnet,mysql,sqlite,mongodb,docker,git,github,linux,bash,postman,vscode" />
-</p>
-
----
-
-# GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=sebas11042&theme=tokyonight&hide_border=true" />
-</p>
+My work includes **reservation systems, e-commerce-style platforms, business applications and modern web products**, while continuing to explore blockchain ecosystems and Web3 product development.
 
 ---
 
-# Contribution Activity
+## `> TECH_ARSENAL`
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebas11042&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+<div align="center">
+
+### `[ FRONTEND ]`
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap&theme=dark" />
+
+<br/>
+
+### `[ BACKEND ]`
+
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,cs,dotnet&theme=dark" />
+
+<br/>
+
+### `[ DATABASES // INFRASTRUCTURE ]`
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,docker,linux,bash&theme=dark" />
+
+<br/>
+
+### `[ DEVELOPMENT TOOLS ]`
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
+
+</div>
 
 ---
 
-# Web3 Experience
+## `> SYSTEM_STATUS`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Web3-Blockchain%20Builder-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Smart%20Contracts-Ecosystem%20Experience-2563eb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Digital%20Assets-Marketplace%20Concepts-0ea5e9?style=for-the-badge" />
-</p>
+```text
+FULL STACK DEVELOPMENT     ████████████████████
+FRONTEND ENGINEERING       ██████████████████░░
+BACKEND ARCHITECTURE       ██████████████████░░
+DATABASE SYSTEMS           █████████████████░░░
+WEB3 DEVELOPMENT           ███████████████░░░░░
+```
+
+```text
+STATUS    : ONLINE
+MODE      : BUILDING
+FOCUS     : FULL STACK + WEB3
+COFFEE    : REQUIRED
+BUGS      : TEMPORARY
+LEARNING  : ALWAYS
+```
 
 ---
 
-# Development Profile
+## `> GITHUB_ANALYTICS`
 
-```txt
-Full Stack Development      ████████████
-Frontend Engineering        ███████████░
-Backend Architecture        ███████████░
-Database Systems            ██████████░░
-Web3 Product Development    █████████░░░
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sebas11042&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=b7b7b7&ring_color=39FF14" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sebas11042&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=ffffff&currStreakNum=ffffff&sideNums=b7b7b7&dates=666666" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas11042&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=b7b7b7" />
+
+</div>
+
+---
+
+## `> CONTRIBUTION_MATRIX`
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sebas11042&bg_color=000000&color=39FF14&line=00ff66&point=ffffff&area=true&area_color=003b1d&hide_border=true" />
+
+</div>
+
+---
+
+## `> WEB3_PROTOCOL`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/WEB3-BUILDER-050505?style=for-the-badge&logo=ethereum&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/BLOCKCHAIN-ECOSYSTEMS-050505?style=for-the-badge&logo=blockchaindotcom&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/DIGITAL_ASSETS-EXPLORATION-050505?style=for-the-badge&logo=ethereum&logoColor=39FF14" />
+
+</div>
+
+<br/>
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   WEB2                                      WEB3             │
+│                                                              │
+│   Frontend ──┐                              Blockchain       │
+│              ├──► Digital Products ◄──┐      Ecosystems      │
+│   Backend  ──┤                       ├──────►                │
+│              │                       │      Digital Assets   │
+│   Database ──┘                       └──────►                │
+│                                             dApps            │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+### `> CONNECTION ESTABLISHED_`
+
+**Always building. Always learning. Always shipping.**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=500&color=39FF14&center=true&vCenter=true&width=650&lines=%5BOK%5D+Frontend+systems+loaded;%5BOK%5D+Backend+services+loaded;%5BOK%5D+Database+layer+connected;%5BOK%5D+Web3+protocol+initialized;%5BREADY%5D+Waiting+for+the+next+challenge..." />
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,40:071a12,70:050505,100:000000&height=130&section=footer" />
+
+</div>
