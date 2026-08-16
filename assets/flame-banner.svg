@@ -8,11 +8,11 @@
 <defs>
 
   <!-- BACKGROUND -->
-  <radialGradient id="bg">
-    <stop offset="0%" stop-color="#11140c"/>
-    <stop offset="45%" stop-color="#070806"/>
-    <stop offset="100%" stop-color="#010201"/>
-  </radialGradient>
+<radialGradient id="bg">
+  <stop offset="0%" stop-color="#24405A"/>
+  <stop offset="45%" stop-color="#1F2B43"/>
+  <stop offset="100%" stop-color="#101927"/>
+</radialGradient>
 
   <!-- NFT INSPIRED FIRE -->
   <linearGradient id="fireColor" x1="0" y1="1" x2="0" y2="0">
