@@ -1,0 +1,405 @@
+<svg
+  width="1200"
+  height="320"
+  viewBox="0 0 1200 320"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+<defs>
+
+  <!-- BACKGROUND -->
+  <radialGradient id="bg">
+    <stop offset="0%" stop-color="#11140c"/>
+    <stop offset="45%" stop-color="#070806"/>
+    <stop offset="100%" stop-color="#010201"/>
+  </radialGradient>
+
+  <!-- NFT INSPIRED FIRE -->
+  <linearGradient id="fireColor" x1="0" y1="1" x2="0" y2="0">
+    <stop offset="0%" stop-color="#354d16"/>
+    <stop offset="22%" stop-color="#6f9f28"/>
+    <stop offset="50%" stop-color="#a9d843"/>
+    <stop offset="72%" stop-color="#d9ef78"/>
+    <stop offset="100%" stop-color="#f7f6b0"/>
+  </linearGradient>
+
+  <radialGradient id="hotCore">
+    <stop offset="0%" stop-color="#fffed0"/>
+    <stop offset="25%" stop-color="#dff47a"/>
+    <stop offset="55%" stop-color="#a5d842"/>
+    <stop offset="100%" stop-color="#4f741e" stop-opacity="0"/>
+  </radialGradient>
+
+  <!-- ORGANIC FLAME DISTORTION -->
+  <filter id="flameDistortion" x="-80%" y="-80%" width="260%" height="260%">
+
+    <feTurbulence
+      type="fractalNoise"
+      baseFrequency="0.012 0.055"
+      numOctaves="4"
+      seed="4"
+      result="noise"
+    >
+      <animate
+        attributeName="baseFrequency"
+        dur="4s"
+        values="
+          0.012 0.055;
+          0.018 0.080;
+          0.009 0.045;
+          0.012 0.055"
+        repeatCount="indefinite"
+      />
+    </feTurbulence>
+
+    <feDisplacementMap
+      in="SourceGraphic"
+      in2="noise"
+      scale="46"
+      xChannelSelector="R"
+      yChannelSelector="G"
+      result="distorted"
+    >
+      <animate
+        attributeName="scale"
+        values="32;58;40;52;32"
+        dur="3.1s"
+        repeatCount="indefinite"
+      />
+    </feDisplacementMap>
+
+    <feGaussianBlur
+      in="distorted"
+      stdDeviation="2.5"
+      result="blurred"
+    />
+
+    <feMerge>
+      <feMergeNode in="blurred"/>
+      <feMergeNode in="distorted"/>
+    </feMerge>
+
+  </filter>
+
+  <!-- LARGE GLOW -->
+  <filter id="bigGlow" x="-200%" y="-200%" width="500%" height="500%">
+    <feGaussianBlur stdDeviation="25"/>
+  </filter>
+
+  <!-- HOT GLOW -->
+  <filter id="hotGlow" x="-150%" y="-150%" width="400%" height="400%">
+    <feGaussianBlur stdDeviation="7" result="blur"/>
+
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <!-- TEXT GLOW -->
+  <filter id="textGlow" x="-100%" y="-200%" width="300%" height="500%">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+</defs>
+
+
+<!-- ===================================================== -->
+<!-- BACKGROUND -->
+<!-- ===================================================== -->
+
+<rect
+  width="1200"
+  height="320"
+  rx="26"
+  fill="url(#bg)"
+/>
+
+
+<!-- ===================================================== -->
+<!-- AMBIENT FIRE LIGHT -->
+<!-- ===================================================== -->
+
+<ellipse
+  cx="20"
+  cy="170"
+  rx="210"
+  ry="220"
+  fill="#91c83d"
+  opacity=".09"
+  filter="url(#bigGlow)"
+>
+  <animate
+    attributeName="opacity"
+    values=".05;.14;.07;.12;.05"
+    dur="2.7s"
+    repeatCount="indefinite"
+  />
+</ellipse>
+
+<ellipse
+  cx="1180"
+  cy="170"
+  rx="210"
+  ry="220"
+  fill="#91c83d"
+  opacity=".09"
+  filter="url(#bigGlow)"
+>
+  <animate
+    attributeName="opacity"
+    values=".12;.05;.15;.07;.12"
+    dur="3.1s"
+    repeatCount="indefinite"
+  />
+</ellipse>
+
+
+<!-- ===================================================== -->
+<!-- LEFT PROCEDURAL FIRE -->
+<!-- ===================================================== -->
+
+<g filter="url(#flameDistortion)">
+
+  <path
+    d="
+      M -25 330
+      L -25 -20
+      L 60 -20
+      C 100 28 55 52 118 85
+      C 73 108 128 135 72 165
+      C 135 196 83 221 132 255
+      C 79 273 117 301 83 330
+      Z
+    "
+    fill="url(#fireColor)"
+    opacity=".82"
+  />
+
+  <path
+    d="
+      M -20 320
+      L -20 32
+      C 31 49 8 83 67 102
+      C 24 132 76 153 35 180
+      C 91 203 48 234 90 254
+      C 49 274 71 298 44 320
+      Z
+    "
+    fill="#b5df4a"
+    opacity=".55"
+  />
+
+  <path
+    d="
+      M -12 285
+      L -12 76
+      C 28 97 7 120 48 139
+      C 13 158 52 181 25 202
+      C 60 219 34 245 57 263
+      C 27 271 43 286 30 300
+      Z
+    "
+    fill="#edf78d"
+    opacity=".56"
+  />
+
+</g>
+
+
+<!-- ===================================================== -->
+<!-- RIGHT PROCEDURAL FIRE -->
+<!-- ===================================================== -->
+
+<g transform="translate(1200 0) scale(-1 1)">
+
+  <g filter="url(#flameDistortion)">
+
+    <path
+      d="
+        M -25 330
+        L -25 -20
+        L 60 -20
+        C 100 28 55 52 118 85
+        C 73 108 128 135 72 165
+        C 135 196 83 221 132 255
+        C 79 273 117 301 83 330
+        Z
+      "
+      fill="url(#fireColor)"
+      opacity=".82"
+    />
+
+    <path
+      d="
+        M -20 320
+        L -20 32
+        C 31 49 8 83 67 102
+        C 24 132 76 153 35 180
+        C 91 203 48 234 90 254
+        C 49 274 71 298 44 320
+        Z
+      "
+      fill="#b5df4a"
+      opacity=".52"
+    />
+
+    <path
+      d="
+        M -12 285
+        L -12 76
+        C 28 97 7 120 48 139
+        C 13 158 52 181 25 202
+        C 60 219 34 245 57 263
+        C 27 271 43 286 30 300
+        Z
+      "
+      fill="#edf78d"
+      opacity=".5"
+    />
+
+  </g>
+
+</g>
+
+
+<!-- ===================================================== -->
+<!-- FLOATING EMBERS -->
+<!-- ===================================================== -->
+
+<g fill="#dff478" filter="url(#hotGlow)">
+
+  <circle cx="95" cy="268" r="3">
+    <animate attributeName="cy" values="285;45" dur="2.9s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="95;140;115;158" dur="2.9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;.8;0" dur="2.9s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="62" cy="250" r="2">
+    <animate attributeName="cy" values="265;80" dur="2.15s" begin=".5s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="62;105;81" dur="2.15s" begin=".5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" dur="2.15s" begin=".5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1105" cy="272" r="3">
+    <animate attributeName="cy" values="285;50" dur="2.6s" begin=".25s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="1105;1068;1080;1037" dur="2.6s" begin=".25s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;.7;0" dur="2.6s" begin=".25s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1142" cy="245" r="2">
+    <animate attributeName="cy" values="260;72" dur="2.3s" begin=".8s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="1142;1094;1113" dur="2.3s" begin=".8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" dur="2.3s" begin=".8s" repeatCount="indefinite"/>
+  </circle>
+
+</g>
+
+
+<!-- ===================================================== -->
+<!-- SUBTLE EDGE ENERGY -->
+<!-- ===================================================== -->
+
+<line
+  x1="220"
+  y1="285"
+  x2="980"
+  y2="285"
+  stroke="#8fbd3d"
+  stroke-width="1"
+  opacity=".15"
+/>
+
+<line
+  x1="330"
+  y1="39"
+  x2="870"
+  y2="39"
+  stroke="#c3e864"
+  stroke-width=".8"
+  opacity=".12"
+/>
+
+
+<!-- ===================================================== -->
+<!-- CENTER -->
+<!-- ===================================================== -->
+
+<text
+  x="600"
+  y="137"
+  text-anchor="middle"
+  font-family="'Courier New', monospace"
+  font-size="45"
+  font-weight="700"
+  letter-spacing="6"
+  fill="#f1f1ed"
+>
+SEBASTIÁN GÓMEZ
+</text>
+
+
+<text
+  x="600"
+  y="181"
+  text-anchor="middle"
+  font-family="'Courier New', monospace"
+  font-size="14"
+  letter-spacing="6"
+  fill="#b9dc55"
+  filter="url(#textGlow)"
+>
+FULL STACK DEVELOPER
+  <animate
+    attributeName="opacity"
+    values=".55;1;.72;1;.55"
+    dur="3.2s"
+    repeatCount="indefinite"
+  />
+</text>
+
+
+<!-- pulsing central energy -->
+<circle
+  cx="600"
+  cy="218"
+  r="3"
+  fill="#e8f78c"
+  filter="url(#hotGlow)"
+>
+  <animate
+    attributeName="r"
+    values="2;5;2"
+    dur="1.7s"
+    repeatCount="indefinite"
+  />
+</circle>
+
+<line
+  x1="445"
+  y1="218"
+  x2="755"
+  y2="218"
+  stroke="#8eb63d"
+  stroke-width=".8"
+  opacity=".32"
+/>
+
+
+<text
+  x="600"
+  y="260"
+  text-anchor="middle"
+  font-family="'Courier New', monospace"
+  font-size="11"
+  letter-spacing="3.7"
+  fill="#777d70"
+>
+WEB DEVELOPMENT  •  SOFTWARE  •  APIs  •  WEB3
+</text>
+
+</svg>
