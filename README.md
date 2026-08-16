@@ -17,9 +17,9 @@ Full Stack Developer building scalable digital products and exploring Web3 ecosy
   <a href="https://x.com/TU_USUARIO">
     <img src="https://img.shields.io/badge/X-Twitter-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
-  <a href="https://github.com/sebas11042">
-    <img src="https://img.shields.io/badge/GitHub-sebas11042-111827?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+<a href="https://www.linkedin.com/in/sebastian-gomez-arrieta-184bb3245/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sebastian%20Gomez%20Arrieta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </p>
 
 ---
