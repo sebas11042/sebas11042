@@ -8,11 +8,11 @@ alt="Sebastian Gomez"
 
 <br/><br/>
 
-<a href="https://t.me/TU_USUARIO">
+<a href="https://t.me/sebas11G">
   <img src="https://img.shields.io/badge/TELEGRAM-070807?style=for-the-badge&logo=telegram&logoColor=C8E76A">
 </a>
 &nbsp;
-<a href="https://x.com/TU_USUARIO">
+<a href="https://x.com/tan11042">
   <img src="https://img.shields.io/badge/X-070807?style=for-the-badge&logo=x&logoColor=C8E76A">
 </a>
 &nbsp;
